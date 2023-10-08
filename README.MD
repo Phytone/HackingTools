@@ -1,3 +1,3 @@
 # HackingTools
 
-This repos is for Linux users, And will contain useful Tools for Hacking
+This repos is for People Who want to get into Hacking
